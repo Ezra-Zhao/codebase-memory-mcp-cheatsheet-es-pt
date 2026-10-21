@@ -8,6 +8,9 @@
 
 ---
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 核心概念
 
 | 概念 | 一句话说明 |
