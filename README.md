@@ -1,5 +1,7 @@
 # codebase-memory-mcp 速查表 | Cheatsheet | Guía rápida
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 codebase-memory-mcp：一个本地 MCP 服务器，把整个代码库预先索引成一张持久化知识图谱（函数、类、调用关系、路由、基础设施都成节点和边），编程智能体查图而不是逐个文件翻找。官方报告的五问对比里，查图约用 3,400 tokens，逐文件搜索约用 412,000 tokens，省约 120 倍。单个静态二进制、零依赖、不要 Docker、不要运行时、不要 API key。
 
 - 上游项目：[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)（2026-10-18 实测 46,842 ★）
